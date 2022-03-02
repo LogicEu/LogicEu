@@ -1,6 +1,6 @@
 # LogicEu
-tools for creative C programming
 
-Hobbyist C programmer, I studied filmmaking and I love music.
-These repositories are capsular moments of my learning curve
-and they build up part of my personal knowledge tree. 
+I studied filmmaking and I love making music. 
+Any kind of creation is my passion, but specially if it's through technology.
+That's why my favorite thing to do is program games, graphics and experiment in low-level C.
+Here are some of the tools and libraries I've created as I keep learning everyday.
